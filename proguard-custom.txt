@@ -104,7 +104,7 @@
     public static int w(...);
     public static int e(...);
 }
-}
+
 
 # These classes contain references to external jars which are not included in the default MobileFirst project.
 -dontwarn com.worklight.common.internal.WLTrusteerInternal*
